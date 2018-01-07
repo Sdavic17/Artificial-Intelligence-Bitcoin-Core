@@ -30,7 +30,7 @@ Genetic Algorithms
 
 This is the general idea behind a genetic algorithm. A genetic algorithm is a type of artificial intelligence, modeled after biological evolution, that begins with no knowledge of the subject, aside from available tools and valid instructions. The AI picks a series of instructions at random (to serve as a piece of DNA) and checks the fitness of the result. It does this with a large population size, of say 100 programs. Surely, some of the programs are better than others. Those that have the best fitness are mated together to produce offspring. Each generation gets a bit of extra diversity from evolutionary techniques such as roulette selection, crossover, and mutation. The process is repeated with each child generation, hopefully producing better and better results, until a target solution is found. Genetic algorithms are programmatic implementations of survival of the fittest. They can also be classified as artificially intelligent search algorithms, with regard to how they search an immense problem space for a specific solution.
 
-We hope soon to publish the first proof-of-concept that demonstrated our AI.
+We hope to publish soon the first proof-of-concept that demonstrated our AI.
 Are you interested to work for our project? Send us an email! AINetwork@protonmail.ch
 
 Thank you for your time! 
